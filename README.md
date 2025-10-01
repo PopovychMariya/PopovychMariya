@@ -1,13 +1,13 @@
 # Maria Popovych
 
-Applied Mathematics undergraduate
+Applied Mathematics undergraduate  
 Python • Git • basic Django/DRF • basic React
 
 - 🔭 Current: editing and adding university projects
 - 🌍 Languages: Ukrainian, Russian, English (IELTS 8.0) • learning German
 
 ## Skills
-**Python**, **NumPy/Pandas**, **matplotlib**;
+**Python**, **NumPy/Pandas**, **matplotlib**;  
 Basics: **Django/DRF**, **RestAPI**, **JS/React**;
 
 ## Selected work
