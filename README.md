@@ -1,16 +1,20 @@
-## Hi there 👋
+# Maria Popovych
 
-<!--
-**PopovychMariya/PopovychMariya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Applied Mathematics undergraduate
+Python • Git • basic Django/DRF • basic React
 
-Here are some ideas to get you started:
+- 🔭 Current: editing and adding university projects
+- 🌍 Languages: Ukrainian, Russian, English (IELTS 8.0) • learning German
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+**Python**, **NumPy/Pandas**, **matplotlib**;
+Basics: **Django/DRF**, **RestAPI**, **JS/React**;
+
+## Selected work
+- **Introductory-Python-Labs** — small focused labworks (algorithms, data handling, simple math tasks).
+
+## Learning / Interests
+- Machine Learning & Data Science  
+- Programming & Tools: Python, SQL
+- Backend & Frameworks: Django/DRF
+- Math Foundations: applied math, linear algebra, optimization, graph theory basics
