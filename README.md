@@ -2,7 +2,7 @@
 
 Machine Learning / Artificial Intelligence engineer · Applied Mathematics undergraduate
 
-- 🔭 Current goal: updating and releasing ML/agentic AI pet projects
+- 🔭 Current: updating and releasing ML/agentic AI pet projects
 
 ## Skills
 **Python**, **PyTorch**, **Transformers (Hugging Face)**, **scikit-learn**, **NumPy/Pandas**, **matplotlib**  
@@ -10,7 +10,7 @@ Tools: **Git**, **Docker**, **Jupyter/Colab**
 Primary IDE: **VScode**
 
 ## Focus Areas
-- **NLP:** sequence labeling (BILOU), real-estate NER (UA/RU), XLM-Roberta + LoRA, CRF / BiLSTM-CNN-CRF
+- **NLP:** sequence labeling / real-estate NER, BERT + LoRA, CRF / BiLSTM-CNN-CRF
 - **CV:** image matching / same-room classification; keypoints & DINOv2 embeddings
 - **LLM apps:** API orchestration, prompt & system design, function/tool calling, **JSON/Schema-constrained structured outputs**
 
